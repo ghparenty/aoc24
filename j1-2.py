@@ -1,6 +1,6 @@
 from collections import Counter
 
-with open('input.txt', 'r') as f:
+with open('j1input.txt', 'r') as f:
     l = f.readlines()
 
 l1, l2 = [], []
