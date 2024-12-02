@@ -1,6 +1,6 @@
 import numpy as np
 
-l = np.loadtxt('input.txt')
+l = np.loadtxt('j1input.txt')
 
 l1, l2 = np.sort(l[:, 0]), np.sort(l[:, 1])
 
